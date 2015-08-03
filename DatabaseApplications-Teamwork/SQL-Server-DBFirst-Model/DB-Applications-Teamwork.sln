@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2013 for Windows Desktop
+VisualStudioVersion = 12.0.30723.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Supermarket.Models", "Supermarket.Models\Supermarket.Models.csproj", "{3737CE95-6B1E-40D6-92E9-0A19B5862441}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Supermarket.Data", "Supermarket.Data\Supermarket.Data.csproj", "{7994AB26-A289-4AA7-A05B-D9A3C08FCCEA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Supermarket.Client", "Supermarket.Client\Supermarket.Client.csproj", "{E2DB6280-2571-442D-92E2-4EE536A59AE4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReplicateOracleToMSSQL", "ReplicateOracleDBIntoMSSQL\ReplicateOracleToMSSQL.csproj", "{ECC54307-7456-411E-A9A9-4E474C27ACEF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImportFromXML", "ImportFromXML\ImportFromXML.csproj", "{1930DADA-6DE9-47B7-A10E-DE97EDE83BC9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MySQLTransfer", "MySQLTransfer\MySQLTransfer.csproj", "{35DD3302-EA2A-41C8-827B-505AB40F6235}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MsSQLContext", "MsSQLContext\MsSQLContext.csproj", "{1FCE145F-BF3D-4E2A-83A9-9DE37B27255A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3737CE95-6B1E-40D6-92E9-0A19B5862441}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3737CE95-6B1E-40D6-92E9-0A19B5862441}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3737CE95-6B1E-40D6-92E9-0A19B5862441}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3737CE95-6B1E-40D6-92E9-0A19B5862441}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7994AB26-A289-4AA7-A05B-D9A3C08FCCEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7994AB26-A289-4AA7-A05B-D9A3C08FCCEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7994AB26-A289-4AA7-A05B-D9A3C08FCCEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7994AB26-A289-4AA7-A05B-D9A3C08FCCEA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E2DB6280-2571-442D-92E2-4EE536A59AE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2DB6280-2571-442D-92E2-4EE536A59AE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2DB6280-2571-442D-92E2-4EE536A59AE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2DB6280-2571-442D-92E2-4EE536A59AE4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ECC54307-7456-411E-A9A9-4E474C27ACEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECC54307-7456-411E-A9A9-4E474C27ACEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECC54307-7456-411E-A9A9-4E474C27ACEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECC54307-7456-411E-A9A9-4E474C27ACEF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1930DADA-6DE9-47B7-A10E-DE97EDE83BC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1930DADA-6DE9-47B7-A10E-DE97EDE83BC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1930DADA-6DE9-47B7-A10E-DE97EDE83BC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1930DADA-6DE9-47B7-A10E-DE97EDE83BC9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{35DD3302-EA2A-41C8-827B-505AB40F6235}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35DD3302-EA2A-41C8-827B-505AB40F6235}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35DD3302-EA2A-41C8-827B-505AB40F6235}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35DD3302-EA2A-41C8-827B-505AB40F6235}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1FCE145F-BF3D-4E2A-83A9-9DE37B27255A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FCE145F-BF3D-4E2A-83A9-9DE37B27255A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FCE145F-BF3D-4E2A-83A9-9DE37B27255A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FCE145F-BF3D-4E2A-83A9-9DE37B27255A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

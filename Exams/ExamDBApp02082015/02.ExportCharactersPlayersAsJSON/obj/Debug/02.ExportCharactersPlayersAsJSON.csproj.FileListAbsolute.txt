@@ -1,0 +1,14 @@
+c:\users\daniela\documents\visual studio 2013\Projects\ExamDBApp02082015\02.ExportCharactersPlayersAsJSON\bin\Debug\02.ExportCharactersPlayersAsJSON.exe.config
+c:\users\daniela\documents\visual studio 2013\Projects\ExamDBApp02082015\02.ExportCharactersPlayersAsJSON\bin\Debug\02.ExportCharactersPlayersAsJSON.exe
+c:\users\daniela\documents\visual studio 2013\Projects\ExamDBApp02082015\02.ExportCharactersPlayersAsJSON\bin\Debug\02.ExportCharactersPlayersAsJSON.pdb
+c:\users\daniela\documents\visual studio 2013\Projects\ExamDBApp02082015\02.ExportCharactersPlayersAsJSON\bin\Debug\01.DatabaseFirstDiablo.exe
+c:\users\daniela\documents\visual studio 2013\Projects\ExamDBApp02082015\02.ExportCharactersPlayersAsJSON\bin\Debug\EntityFramework.dll
+c:\users\daniela\documents\visual studio 2013\Projects\ExamDBApp02082015\02.ExportCharactersPlayersAsJSON\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\daniela\documents\visual studio 2013\Projects\ExamDBApp02082015\02.ExportCharactersPlayersAsJSON\bin\Debug\Newtonsoft.Json.dll
+c:\users\daniela\documents\visual studio 2013\Projects\ExamDBApp02082015\02.ExportCharactersPlayersAsJSON\bin\Debug\01.DatabaseFirstDiablo.pdb
+c:\users\daniela\documents\visual studio 2013\Projects\ExamDBApp02082015\02.ExportCharactersPlayersAsJSON\bin\Debug\EntityFramework.xml
+c:\users\daniela\documents\visual studio 2013\Projects\ExamDBApp02082015\02.ExportCharactersPlayersAsJSON\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\daniela\documents\visual studio 2013\Projects\ExamDBApp02082015\02.ExportCharactersPlayersAsJSON\bin\Debug\Newtonsoft.Json.xml
+c:\users\daniela\documents\visual studio 2013\Projects\ExamDBApp02082015\02.ExportCharactersPlayersAsJSON\obj\Debug\02.ExportCharactersPlayersAsJSON.csprojResolveAssemblyReference.cache
+c:\users\daniela\documents\visual studio 2013\Projects\ExamDBApp02082015\02.ExportCharactersPlayersAsJSON\obj\Debug\02.ExportCharactersPlayersAsJSON.exe
+c:\users\daniela\documents\visual studio 2013\Projects\ExamDBApp02082015\02.ExportCharactersPlayersAsJSON\obj\Debug\02.ExportCharactersPlayersAsJSON.pdb

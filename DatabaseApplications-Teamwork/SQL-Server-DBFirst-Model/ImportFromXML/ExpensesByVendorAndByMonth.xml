@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<expenses-by-month>
+  <vendor name="Bigfoot Breweries">
+    <expenses month="Jul-2015">30.00</expenses>
+    <expenses month="Aug-2015">40.00</expenses>
+    <expenses month="Jan-2015">40.00</expenses>
+  </vendor>
+  <vendor name="New England Seafood Cannery">
+    <expenses month="Jul-2015">10.00</expenses>
+    <expenses month="Aug-2015">20.00</expenses>
+  </vendor>
+  <vendor name="Formaggi Fortini s.r.l.">
+    <expenses month="Jul-2015">10.00</expenses>
+    <expenses month="Aug-2015">20.00</expenses>
+    <expenses month="Feb-2015">40.05</expenses>
+  </vendor>
+  <vendor name="Exotic Liquids">
+    <expenses month="Jul-2015">10.1</expenses>
+    <expenses month="Aug-2015">20.23</expenses>
+    <expenses month="Feb-2015">40.02</expenses>
+  </vendor>
+  <vendor name="Grandma Kelly's Homestead">
+    <expenses month="Jul-2015">10.1</expenses>
+    <expenses month="Aug-2015">20.23</expenses>
+    <expenses month="Feb-2015">40.02</expenses>
+  </vendor>
+  <vendor name="Tokyo Traders">
+    <expenses month="Jul-2015">10.11</expenses>
+    <expenses month="Aug-2015">20.23</expenses>
+    <expenses month="Feb-2015">34.54</expenses>
+  </vendor>
+  <vendor name="Mayumi's">
+    <expenses month="Jul-2015">30.11</expenses>
+    <expenses month="Aug-2015">21.23</expenses>
+    <expenses month="Feb-2015">34.54</expenses>
+  </vendor>
+  <vendor name="Pavlova, Ltd.">
+    <expenses month="Jul-2015">30.11</expenses>
+    <expenses month="Aug-2015">21.23</expenses>
+    <expenses month="Feb-2015">34.54</expenses>
+    <expenses month="Jun-2015">30.11</expenses>
+    <expenses month="Jan-2015">21.23</expenses>
+    <expenses month="May-2015">34.54</expenses>
+  </vendor>
+  <vendor name="Specialty Biscuits, Ltd.">
+    <expenses month="Jul-2015">20.11</expenses>
+    <expenses month="Aug-2015">21.23</expenses>
+    <expenses month="Feb-2015">34.04</expenses>
+    <expenses month="Jun-2015">30.10</expenses>
+    <expenses month="Jan-2015">21.23</expenses>
+    <expenses month="May-2015">34.54</expenses>
+  </vendor>
+
+</expenses-by-month>

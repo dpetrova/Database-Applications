@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<students xmlns:student="http://en.wikipedia.org/wiki/Uniform_Resource_Identifier"
+              xmlns:exam="http://en.wikipedia.org/wiki/Uniform_Resource_Identifier"
+              xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation='http://en.wikipedia.org/wiki/Uniform_Resource_Identifier file:/.../XMLSchemas/2.StudentsWithNamespace.xsd
+                                  http://en.wikipedia.org/wiki/Uniform_Resource_Identifier file:/.../XMLSchemas/2.StudentsWithNamespace1.xsd'>
+  <student:student>
+    <student:name>Petar Mihailov</student:name>
+    <student:gender>Male</student:gender>
+    <student:birth-date>1994-11-05</student:birth-date>
+    <student:phone minOccurs="0" maxOccurs="1">+359899121456</student:phone>
+    <student:e-mail>p.mihailov@gmail.bg</student:e-mail>
+    <student:university>SoftUni</student:university>
+    <student:specialty>Front-end development</student:specialty>
+    <student:faculty-number minOccurs="0" maxOccurs="1">SU-1245</student:faculty-number>
+    <student:exams>
+      <exam:exam >
+        <exam:exam-name>JavaScript Basics</exam:exam-name>
+        <exam:exam-date>2015-03-04</exam:exam-date>
+        <exam:exam-grade>5.00</exam:exam-grade>
+      </exam:exam>
+      <exam:exam>
+        <exam:exam-name>Databases</exam:exam-name>
+        <exam:exam-date>2015-04-07</exam:exam-date>
+        <exam:exam-grade>4.60</exam:exam-grade>
+      </exam:exam>
+    </student:exams>
+  </student:student>
+  <student:student>
+    <student:name>Penka Dobrinkova</student:name>
+    <student:gender>Female</student:gender>
+    <student:birth-date>1982-09-30</student:birth-date>
+    <student:phone minOccurs="0" maxOccurs="1"></student:phone>
+    <student:e-mail>penka_1982@gmail.bg</student:e-mail>
+    <student:university>SoftUni</student:university>
+    <student:specialty>Back-end development</student:specialty>
+    <student:faculty-number minOccurs="0" maxOccurs="1">SU-7789</student:faculty-number>
+    <student:exams>
+      <exam:exam>
+        <exam:exam-name>OOP</exam:exam-name>
+        <exam:exam-date>2014-10-20</exam:exam-date>
+        <exam:exam-grade>3.40</exam:exam-grade>
+      </exam:exam>
+      <exam:exam>
+        <exam:exam-name>Databases</exam:exam-name>
+        <exam:exam-date>2015-04-07</exam:exam-date>
+        <exam:exam-grade>5.90</exam:exam-grade>
+      </exam:exam>
+    </student:exams>
+  </student:student>
+  <student:student>
+    <student:name>Dimitar Valchev</student:name>
+    <student:gender>Male</student:gender>
+    <student:birth-date>1975-08-14</student:birth-date>
+    <student:phone minOccurs="0" maxOccurs="1">+359898997654</student:phone>
+    <student:e-mail>vyrkolak@abv.bg</student:e-mail>
+    <student:university>SoftUni</student:university>
+    <student:specialty>Front-end development</student:specialty>
+    <student:faculty-number minOccurs="0" maxOccurs="1">SU-3345</student:faculty-number>
+    <student:exams>
+      <exam:exam>
+        <exam:exam-name>JavaScript Basics</exam:exam-name>
+        <exam:exam-date>2015-03-04</exam:exam-date>
+        <exam:exam-grade>6.00</exam:exam-grade>
+      </exam:exam>
+      <exam:exam>
+        <exam:exam-name>Databases</exam:exam-name>
+        <exam:exam-date>2015-04-07</exam:exam-date>
+        <exam:exam-grade>3.00</exam:exam-grade>
+      </exam:exam>
+      <exam:exam>
+        <exam:exam-name>HTML&amp;CSS</exam:exam-name>
+        <exam:exam-date>2015-02-12</exam:exam-date>
+        <exam:exam-grade>5.40</exam:exam-grade>
+      </exam:exam>
+    </student:exams>
+  </student:student>
+</students>
+

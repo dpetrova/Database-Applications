@@ -1,0 +1,12 @@
+c:\users\daniela\documents\visual studio 2013\Projects\Football\03.ExportToXML\bin\Debug\03.ExportToXML.exe.config
+c:\users\daniela\documents\visual studio 2013\Projects\Football\03.ExportToXML\bin\Debug\03.ExportToXML.exe
+c:\users\daniela\documents\visual studio 2013\Projects\Football\03.ExportToXML\bin\Debug\03.ExportToXML.pdb
+c:\users\daniela\documents\visual studio 2013\Projects\Football\03.ExportToXML\bin\Debug\01.EntityFrameworkMappings_Database First.exe
+c:\users\daniela\documents\visual studio 2013\Projects\Football\03.ExportToXML\bin\Debug\EntityFramework.dll
+c:\users\daniela\documents\visual studio 2013\Projects\Football\03.ExportToXML\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\daniela\documents\visual studio 2013\Projects\Football\03.ExportToXML\bin\Debug\01.EntityFrameworkMappings_Database First.pdb
+c:\users\daniela\documents\visual studio 2013\Projects\Football\03.ExportToXML\bin\Debug\EntityFramework.xml
+c:\users\daniela\documents\visual studio 2013\Projects\Football\03.ExportToXML\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\daniela\documents\visual studio 2013\Projects\Football\03.ExportToXML\obj\Debug\03.ExportToXML.csprojResolveAssemblyReference.cache
+c:\users\daniela\documents\visual studio 2013\Projects\Football\03.ExportToXML\obj\Debug\03.ExportToXML.exe
+c:\users\daniela\documents\visual studio 2013\Projects\Football\03.ExportToXML\obj\Debug\03.ExportToXML.pdb

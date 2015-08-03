@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<students name="Students List">
+  <student>
+    <name>Petar Mihailov</name>
+    <gender>Male</gender>
+    <birth-date>1994-11-05</birth-date>
+    <phone minOccurs="0" maxOccurs="1">+359899121456</phone>
+    <e-mail>p.mihailov@gmail.bg</e-mail>
+    <university>SoftUni</university>
+    <specialty>Front-end development</specialty>
+    <faculty-number minOccurs="0" maxOccurs="1">SU-1245</faculty-number>
+    <exams>
+      <exam>
+        <exam-name>JavaScript Basics</exam-name>
+        <exam-date>2015-03-04</exam-date>
+        <exam-grade>5.00</exam-grade>
+      </exam>
+      <exam>
+        <exam-name>Databases</exam-name>
+        <exam-date>2015-04-07</exam-date>
+        <exam-grade>4.60</exam-grade>
+      </exam>
+    </exams>
+  </student>
+  <student>
+    <name>Penka Dobrinkova</name>
+    <gender>Female</gender>
+    <birth-date>1982-09-30</birth-date>
+    <phone minOccurs="0" maxOccurs="1"></phone>
+    <e-mail>penka_1982@gmail.bg</e-mail>
+    <university>SoftUni</university>
+    <specialty>Back-end development</specialty>
+    <faculty-number minOccurs="0" maxOccurs="1">SU-7789</faculty-number>
+    <exams>
+      <exam>
+        <exam-name>OOP</exam-name>
+        <exam-date>2014-10-20</exam-date>
+        <exam-grade>3.40</exam-grade>
+      </exam>
+      <exam>
+        <exam-name>Databases</exam-name>
+        <exam-date>2015-04-07</exam-date>
+        <exam-grade>5.90</exam-grade>
+      </exam>
+    </exams>
+  </student>
+  <student>
+    <name>Dimitar Valchev</name>
+    <gender>Male</gender>
+    <birth-date>1975-08-14</birth-date>
+    <phone minOccurs="0" maxOccurs="1">+359898997654</phone>
+    <e-mail>vyrkolak@abv.bg</e-mail>
+    <university>SoftUni</university>
+    <specialty>Front-end development</specialty>
+    <faculty-number minOccurs="0" maxOccurs="1">SU-3345</faculty-number>
+    <exams>
+      <exam>
+        <exam-name>JavaScript Basics</exam-name>
+        <exam-date>2015-03-04</exam-date>
+        <exam-grade>6.00</exam-grade>
+      </exam>
+      <exam>
+        <exam-name>Databases</exam-name>
+        <exam-date>2015-04-07</exam-date>
+        <exam-grade>3.00</exam-grade>
+      </exam>
+    <exam>
+        <exam-name>HTML&amp;CSS</exam-name>
+        <exam-date>2015-02-12</exam-date>
+        <exam-grade>5.40</exam-grade>
+      </exam>
+    </exams>
+  </student>
+</students>

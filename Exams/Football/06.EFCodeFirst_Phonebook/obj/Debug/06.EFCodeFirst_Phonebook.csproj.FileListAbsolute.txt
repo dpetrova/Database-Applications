@@ -1,0 +1,10 @@
+c:\users\daniela\documents\visual studio 2013\Projects\Football\06.EFCodeFirst_Phonebook\bin\Debug\06.EFCodeFirst_Phonebook.exe.config
+c:\users\daniela\documents\visual studio 2013\Projects\Football\06.EFCodeFirst_Phonebook\bin\Debug\06.EFCodeFirst_Phonebook.exe
+c:\users\daniela\documents\visual studio 2013\Projects\Football\06.EFCodeFirst_Phonebook\bin\Debug\06.EFCodeFirst_Phonebook.pdb
+c:\users\daniela\documents\visual studio 2013\Projects\Football\06.EFCodeFirst_Phonebook\bin\Debug\EntityFramework.dll
+c:\users\daniela\documents\visual studio 2013\Projects\Football\06.EFCodeFirst_Phonebook\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\daniela\documents\visual studio 2013\Projects\Football\06.EFCodeFirst_Phonebook\bin\Debug\EntityFramework.xml
+c:\users\daniela\documents\visual studio 2013\Projects\Football\06.EFCodeFirst_Phonebook\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\daniela\documents\visual studio 2013\Projects\Football\06.EFCodeFirst_Phonebook\obj\Debug\06.EFCodeFirst_Phonebook.csprojResolveAssemblyReference.cache
+c:\users\daniela\documents\visual studio 2013\Projects\Football\06.EFCodeFirst_Phonebook\obj\Debug\06.EFCodeFirst_Phonebook.exe
+c:\users\daniela\documents\visual studio 2013\Projects\Football\06.EFCodeFirst_Phonebook\obj\Debug\06.EFCodeFirst_Phonebook.pdb

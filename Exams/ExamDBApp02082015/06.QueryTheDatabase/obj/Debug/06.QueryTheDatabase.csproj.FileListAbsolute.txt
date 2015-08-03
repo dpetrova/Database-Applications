@@ -1,0 +1,14 @@
+C:\Users\Daniela\documents\visual studio 2013\Projects\ExamDBApp02082015\06.QueryTheDatabase\bin\Debug\06.QueryTheDatabase.exe.config
+C:\Users\Daniela\documents\visual studio 2013\Projects\ExamDBApp02082015\06.QueryTheDatabase\bin\Debug\06.QueryTheDatabase.exe
+C:\Users\Daniela\documents\visual studio 2013\Projects\ExamDBApp02082015\06.QueryTheDatabase\bin\Debug\06.QueryTheDatabase.pdb
+C:\Users\Daniela\documents\visual studio 2013\Projects\ExamDBApp02082015\06.QueryTheDatabase\bin\Debug\05.CodeFirst_Movies.exe
+C:\Users\Daniela\documents\visual studio 2013\Projects\ExamDBApp02082015\06.QueryTheDatabase\bin\Debug\EntityFramework.dll
+C:\Users\Daniela\documents\visual studio 2013\Projects\ExamDBApp02082015\06.QueryTheDatabase\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Daniela\documents\visual studio 2013\Projects\ExamDBApp02082015\06.QueryTheDatabase\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Daniela\documents\visual studio 2013\Projects\ExamDBApp02082015\06.QueryTheDatabase\bin\Debug\05.CodeFirst_Movies.pdb
+C:\Users\Daniela\documents\visual studio 2013\Projects\ExamDBApp02082015\06.QueryTheDatabase\bin\Debug\EntityFramework.xml
+C:\Users\Daniela\documents\visual studio 2013\Projects\ExamDBApp02082015\06.QueryTheDatabase\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Daniela\documents\visual studio 2013\Projects\ExamDBApp02082015\06.QueryTheDatabase\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Daniela\documents\visual studio 2013\Projects\ExamDBApp02082015\06.QueryTheDatabase\obj\Debug\06.QueryTheDatabase.csprojResolveAssemblyReference.cache
+C:\Users\Daniela\documents\visual studio 2013\Projects\ExamDBApp02082015\06.QueryTheDatabase\obj\Debug\06.QueryTheDatabase.exe
+C:\Users\Daniela\documents\visual studio 2013\Projects\ExamDBApp02082015\06.QueryTheDatabase\obj\Debug\06.QueryTheDatabase.pdb

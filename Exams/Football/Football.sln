@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.EntityFrameworkMappings_Database First", "01.EntityFrameworkMappings_Database First\01.EntityFrameworkMappings_Database First.csproj", "{22A4B4F7-1A44-4CB4-9D32-E9A53DD73750}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.ExportToJSON", "02.ExportToJSON\02.ExportToJSON.csproj", "{A8857CA3-4B07-4D62-B57B-FCD4FCE5980E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.ExportToXML", "03.ExportToXML\03.ExportToXML.csproj", "{085A10A7-0AFF-4DB5-994F-F0DFAD0FD065}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.ImportFromXML", "04.ImportFromXML\04.ImportFromXML.csproj", "{0A9BD498-F519-4FD1-8D78-B79FB6C03BD2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.EFCodeFirst_Phonebook", "06.EFCodeFirst_Phonebook\06.EFCodeFirst_Phonebook.csproj", "{7B404262-5A37-4008-8A9F-4660C20305B4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07.ImportFromJSON", "07.ImportFromJSON\07.ImportFromJSON.csproj", "{AA41BD5D-7B6C-4230-8787-15BD269E236D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.GenerateRandomMatches", "05.GenerateRandomMatches\05.GenerateRandomMatches.csproj", "{277EEFE6-B843-4A3B-89B9-7A13D7902EDB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{22A4B4F7-1A44-4CB4-9D32-E9A53DD73750}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22A4B4F7-1A44-4CB4-9D32-E9A53DD73750}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22A4B4F7-1A44-4CB4-9D32-E9A53DD73750}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22A4B4F7-1A44-4CB4-9D32-E9A53DD73750}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A8857CA3-4B07-4D62-B57B-FCD4FCE5980E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8857CA3-4B07-4D62-B57B-FCD4FCE5980E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8857CA3-4B07-4D62-B57B-FCD4FCE5980E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8857CA3-4B07-4D62-B57B-FCD4FCE5980E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{085A10A7-0AFF-4DB5-994F-F0DFAD0FD065}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{085A10A7-0AFF-4DB5-994F-F0DFAD0FD065}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{085A10A7-0AFF-4DB5-994F-F0DFAD0FD065}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{085A10A7-0AFF-4DB5-994F-F0DFAD0FD065}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A9BD498-F519-4FD1-8D78-B79FB6C03BD2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A9BD498-F519-4FD1-8D78-B79FB6C03BD2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A9BD498-F519-4FD1-8D78-B79FB6C03BD2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A9BD498-F519-4FD1-8D78-B79FB6C03BD2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B404262-5A37-4008-8A9F-4660C20305B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B404262-5A37-4008-8A9F-4660C20305B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B404262-5A37-4008-8A9F-4660C20305B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B404262-5A37-4008-8A9F-4660C20305B4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA41BD5D-7B6C-4230-8787-15BD269E236D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA41BD5D-7B6C-4230-8787-15BD269E236D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA41BD5D-7B6C-4230-8787-15BD269E236D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA41BD5D-7B6C-4230-8787-15BD269E236D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{277EEFE6-B843-4A3B-89B9-7A13D7902EDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{277EEFE6-B843-4A3B-89B9-7A13D7902EDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{277EEFE6-B843-4A3B-89B9-7A13D7902EDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{277EEFE6-B843-4A3B-89B9-7A13D7902EDB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,10 @@
+c:\users\daniela\documents\visual studio 2013\Projects\ExamDBApp02082015\01.DatabaseFirstDiablo\bin\Debug\01.DatabaseFirstDiablo.exe.config
+c:\users\daniela\documents\visual studio 2013\Projects\ExamDBApp02082015\01.DatabaseFirstDiablo\bin\Debug\01.DatabaseFirstDiablo.exe
+c:\users\daniela\documents\visual studio 2013\Projects\ExamDBApp02082015\01.DatabaseFirstDiablo\bin\Debug\01.DatabaseFirstDiablo.pdb
+c:\users\daniela\documents\visual studio 2013\Projects\ExamDBApp02082015\01.DatabaseFirstDiablo\bin\Debug\EntityFramework.dll
+c:\users\daniela\documents\visual studio 2013\Projects\ExamDBApp02082015\01.DatabaseFirstDiablo\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\daniela\documents\visual studio 2013\Projects\ExamDBApp02082015\01.DatabaseFirstDiablo\bin\Debug\EntityFramework.xml
+c:\users\daniela\documents\visual studio 2013\Projects\ExamDBApp02082015\01.DatabaseFirstDiablo\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\daniela\documents\visual studio 2013\Projects\ExamDBApp02082015\01.DatabaseFirstDiablo\obj\Debug\01.DatabaseFirstDiablo.csprojResolveAssemblyReference.cache
+c:\users\daniela\documents\visual studio 2013\Projects\ExamDBApp02082015\01.DatabaseFirstDiablo\obj\Debug\01.DatabaseFirstDiablo.exe
+c:\users\daniela\documents\visual studio 2013\Projects\ExamDBApp02082015\01.DatabaseFirstDiablo\obj\Debug\01.DatabaseFirstDiablo.pdb

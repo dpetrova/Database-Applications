@@ -1,0 +1,14 @@
+c:\users\daniela\documents\visual studio 2013\Projects\Football\07.ImportFromJSON\bin\Debug\07.ImportFromJSON.exe.config
+c:\users\daniela\documents\visual studio 2013\Projects\Football\07.ImportFromJSON\bin\Debug\07.ImportFromJSON.exe
+c:\users\daniela\documents\visual studio 2013\Projects\Football\07.ImportFromJSON\bin\Debug\07.ImportFromJSON.pdb
+c:\users\daniela\documents\visual studio 2013\Projects\Football\07.ImportFromJSON\bin\Debug\06.EFCodeFirst_Phonebook.exe
+c:\users\daniela\documents\visual studio 2013\Projects\Football\07.ImportFromJSON\bin\Debug\EntityFramework.dll
+c:\users\daniela\documents\visual studio 2013\Projects\Football\07.ImportFromJSON\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\daniela\documents\visual studio 2013\Projects\Football\07.ImportFromJSON\bin\Debug\Newtonsoft.Json.dll
+c:\users\daniela\documents\visual studio 2013\Projects\Football\07.ImportFromJSON\bin\Debug\06.EFCodeFirst_Phonebook.pdb
+c:\users\daniela\documents\visual studio 2013\Projects\Football\07.ImportFromJSON\bin\Debug\EntityFramework.xml
+c:\users\daniela\documents\visual studio 2013\Projects\Football\07.ImportFromJSON\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\daniela\documents\visual studio 2013\Projects\Football\07.ImportFromJSON\bin\Debug\Newtonsoft.Json.xml
+c:\users\daniela\documents\visual studio 2013\Projects\Football\07.ImportFromJSON\obj\Debug\07.ImportFromJSON.csprojResolveAssemblyReference.cache
+c:\users\daniela\documents\visual studio 2013\Projects\Football\07.ImportFromJSON\obj\Debug\07.ImportFromJSON.exe
+c:\users\daniela\documents\visual studio 2013\Projects\Football\07.ImportFromJSON\obj\Debug\07.ImportFromJSON.pdb

@@ -1,0 +1,14 @@
+c:\users\daniela\documents\visual studio 2013\Projects\ExamDBApp02082015\04.ImportUsersGamesFromXML\bin\Debug\04.ImportUsersGamesFromXML.exe.config
+c:\users\daniela\documents\visual studio 2013\Projects\ExamDBApp02082015\04.ImportUsersGamesFromXML\bin\Debug\04.ImportUsersGamesFromXML.exe
+c:\users\daniela\documents\visual studio 2013\Projects\ExamDBApp02082015\04.ImportUsersGamesFromXML\bin\Debug\04.ImportUsersGamesFromXML.pdb
+c:\users\daniela\documents\visual studio 2013\Projects\ExamDBApp02082015\04.ImportUsersGamesFromXML\bin\Debug\01.DatabaseFirstDiablo.exe
+c:\users\daniela\documents\visual studio 2013\Projects\ExamDBApp02082015\04.ImportUsersGamesFromXML\bin\Debug\EntityFramework.dll
+c:\users\daniela\documents\visual studio 2013\Projects\ExamDBApp02082015\04.ImportUsersGamesFromXML\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\daniela\documents\visual studio 2013\Projects\ExamDBApp02082015\04.ImportUsersGamesFromXML\bin\Debug\Newtonsoft.Json.dll
+c:\users\daniela\documents\visual studio 2013\Projects\ExamDBApp02082015\04.ImportUsersGamesFromXML\bin\Debug\01.DatabaseFirstDiablo.pdb
+c:\users\daniela\documents\visual studio 2013\Projects\ExamDBApp02082015\04.ImportUsersGamesFromXML\bin\Debug\EntityFramework.xml
+c:\users\daniela\documents\visual studio 2013\Projects\ExamDBApp02082015\04.ImportUsersGamesFromXML\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\daniela\documents\visual studio 2013\Projects\ExamDBApp02082015\04.ImportUsersGamesFromXML\bin\Debug\Newtonsoft.Json.xml
+c:\users\daniela\documents\visual studio 2013\Projects\ExamDBApp02082015\04.ImportUsersGamesFromXML\obj\Debug\04.ImportUsersGamesFromXML.csprojResolveAssemblyReference.cache
+c:\users\daniela\documents\visual studio 2013\Projects\ExamDBApp02082015\04.ImportUsersGamesFromXML\obj\Debug\04.ImportUsersGamesFromXML.exe
+c:\users\daniela\documents\visual studio 2013\Projects\ExamDBApp02082015\04.ImportUsersGamesFromXML\obj\Debug\04.ImportUsersGamesFromXML.pdb

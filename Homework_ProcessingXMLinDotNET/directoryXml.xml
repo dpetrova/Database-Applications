@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root-dir path="C:/Example">
+  <dir name="docs">
+    <file name="tutorial.pdf" />
+    <file name="TODO.txt" />
+    <file name="Presentation.pptx" />
+  </dir>
+  <dir name="photos">
+    <file name="friends.jpg" />
+    <file name="the_cake.jpg" />
+  </dir>
+</root-dir>

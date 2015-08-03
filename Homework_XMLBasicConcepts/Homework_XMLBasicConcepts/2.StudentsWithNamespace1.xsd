@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:tns="http://en.wikipedia.org/wiki/Uniform_Resource_Identifier" attributeFormDefault="unqualified" elementFormDefault="qualified" targetNamespace="http://en.wikipedia.org/wiki/Uniform_Resource_Identifier" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="student">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="name" type="xs:string" />
+        <xs:element name="gender" type="xs:string" />
+        <xs:element name="birth-date" type="xs:date" />
+        <xs:element name="phone">
+          <xs:complexType>
+            <xs:simpleContent>
+              <xs:extension base="xs:string">
+                <xs:attribute name="minOccurs" type="xs:unsignedByte" use="required" />
+                <xs:attribute name="maxOccurs" type="xs:unsignedByte" use="required" />
+              </xs:extension>
+            </xs:simpleContent>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="e-mail" type="xs:string" />
+        <xs:element name="university" type="xs:string" />
+        <xs:element name="specialty" type="xs:string" />
+        <xs:element name="faculty-number">
+          <xs:complexType>
+            <xs:simpleContent>
+              <xs:extension base="xs:string">
+                <xs:attribute name="minOccurs" type="xs:unsignedByte" use="required" />
+                <xs:attribute name="maxOccurs" type="xs:unsignedByte" use="required" />
+              </xs:extension>
+            </xs:simpleContent>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="exams">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element maxOccurs="unbounded" name="exam">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element name="exam-name" type="xs:string" />
+                    <xs:element name="exam-date" type="xs:date" />
+                    <xs:element name="exam-grade" type="xs:decimal" />
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="endorsments">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element minOccurs="0" maxOccurs="unbounded" name="endorsment">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element name="author" type="xs:string" />
+                    <xs:element name="author-email" type="xs:string" />
+                    <xs:element name="endorsment-date" type="xs:date" />
+                    <xs:element name="endorsment-text" type="xs:string" />
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

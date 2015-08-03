@@ -1,0 +1,14 @@
+c:\users\daniela\documents\visual studio 2013\Projects\Football\02.ExportToJSON\bin\Debug\02.ExportToJSON.exe.config
+c:\users\daniela\documents\visual studio 2013\Projects\Football\02.ExportToJSON\bin\Debug\02.ExportToJSON.exe
+c:\users\daniela\documents\visual studio 2013\Projects\Football\02.ExportToJSON\bin\Debug\02.ExportToJSON.pdb
+c:\users\daniela\documents\visual studio 2013\Projects\Football\02.ExportToJSON\bin\Debug\01.EntityFrameworkMappings_Database First.exe
+c:\users\daniela\documents\visual studio 2013\Projects\Football\02.ExportToJSON\bin\Debug\EntityFramework.dll
+c:\users\daniela\documents\visual studio 2013\Projects\Football\02.ExportToJSON\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\daniela\documents\visual studio 2013\Projects\Football\02.ExportToJSON\bin\Debug\01.EntityFrameworkMappings_Database First.pdb
+c:\users\daniela\documents\visual studio 2013\Projects\Football\02.ExportToJSON\bin\Debug\EntityFramework.xml
+c:\users\daniela\documents\visual studio 2013\Projects\Football\02.ExportToJSON\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\daniela\documents\visual studio 2013\Projects\Football\02.ExportToJSON\obj\Debug\02.ExportToJSON.csprojResolveAssemblyReference.cache
+c:\users\daniela\documents\visual studio 2013\Projects\Football\02.ExportToJSON\obj\Debug\02.ExportToJSON.exe
+c:\users\daniela\documents\visual studio 2013\Projects\Football\02.ExportToJSON\obj\Debug\02.ExportToJSON.pdb
+c:\users\daniela\documents\visual studio 2013\Projects\Football\02.ExportToJSON\bin\Debug\Newtonsoft.Json.dll
+c:\users\daniela\documents\visual studio 2013\Projects\Football\02.ExportToJSON\bin\Debug\Newtonsoft.Json.xml

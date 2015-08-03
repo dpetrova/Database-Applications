@@ -1,0 +1,10 @@
+c:\users\daniela\documents\visual studio 2013\Projects\Football\01.EntityFrameworkMappings_Database First\bin\Debug\01.EntityFrameworkMappings_Database First.exe.config
+c:\users\daniela\documents\visual studio 2013\Projects\Football\01.EntityFrameworkMappings_Database First\bin\Debug\01.EntityFrameworkMappings_Database First.exe
+c:\users\daniela\documents\visual studio 2013\Projects\Football\01.EntityFrameworkMappings_Database First\bin\Debug\01.EntityFrameworkMappings_Database First.pdb
+c:\users\daniela\documents\visual studio 2013\Projects\Football\01.EntityFrameworkMappings_Database First\bin\Debug\EntityFramework.dll
+c:\users\daniela\documents\visual studio 2013\Projects\Football\01.EntityFrameworkMappings_Database First\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\daniela\documents\visual studio 2013\Projects\Football\01.EntityFrameworkMappings_Database First\bin\Debug\EntityFramework.xml
+c:\users\daniela\documents\visual studio 2013\Projects\Football\01.EntityFrameworkMappings_Database First\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\daniela\documents\visual studio 2013\Projects\Football\01.EntityFrameworkMappings_Database First\obj\Debug\01.EntityFrameworkMappings_Database First.csprojResolveAssemblyReference.cache
+c:\users\daniela\documents\visual studio 2013\Projects\Football\01.EntityFrameworkMappings_Database First\obj\Debug\01.EntityFrameworkMappings_Database First.exe
+c:\users\daniela\documents\visual studio 2013\Projects\Football\01.EntityFrameworkMappings_Database First\obj\Debug\01.EntityFrameworkMappings_Database First.pdb
